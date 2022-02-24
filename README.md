@@ -6,7 +6,7 @@
 
 + Discord Support сервер <a href="https://discord.gg/TKdbaXsJ5a">**Войти**</a>
 
-+ node.js разрабочик. <img src="code.png"></a>
++ node.js разрабочик.
 
 <a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.png"></a>
 
