@@ -11,5 +11,5 @@
 <a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.png"></a>
 
 
-Тех.Поддержка **wifebot@bk.ru** <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/4228_discord_bot_dev.png"></a>
+Тех.Поддержка **wifebot@bk.ru** <img src="dev.png"></a>
 
