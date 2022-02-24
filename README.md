@@ -8,4 +8,6 @@
 
 + node.js разрабочик.
 
+<a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.png"></a>
+
 
