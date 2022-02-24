@@ -6,6 +6,6 @@
 
 + Discord Support сервер <a href="https://discord.gg/TKdbaXsJ5a">**Войти**</a>
 
-+ node.js разрабочик <a href="https://nodejs.org/ru/">**ТЫК**</a>
++ node.js разрабочик.
 
 
