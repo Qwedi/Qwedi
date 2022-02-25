@@ -8,12 +8,8 @@
 
 + node.js разрабочик.
 
-<a href="https://discord.gg/TKdbaXsJ5a">
-  <img src="http://invidget.switchblade.xyz/TKdbaXsJ5a" />
-</a>
+<a href="https://discord.gg/TKdbaXsJ5a">![Discord Banner 1](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner1)</a>
 
-  
-
-Тех.Поддержка **wifebot@bk.ru** <img src="developer.png">
+Tех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
