@@ -11,6 +11,7 @@
 <a href="https://discord.gg/TKdbaXsJ5a">
   <img src="http://invidget.switchblade.xyz/TKdbaXsJ5a" />
 </a>
+
   
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
