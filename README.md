@@ -10,6 +10,6 @@
 
 <a href="https://discord.gg/TKdbaXsJ5a">![Discord Banner 2](https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner2)</a>
   
-Тех.Поддержка **wifebot@bk.ru** <img src="developer.png"></a>
+Тех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
-Discord: Квэди#8735 <img src="https://emoji.gg/assets/emoji/8244-discord.png" width="16px" height="16px" alt="Discord""></a>
+Discord: Квэди#8735 <img src="https://emoji.gg/assets/emoji/8244-discord.png" width="16px" height="16px"">
