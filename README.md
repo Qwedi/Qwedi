@@ -7,7 +7,7 @@
 + Discord Support сервер <a href="https://discord.gg/TKdbaXsJ5a">**Войти**</a>
 
 + node.js разрабочик.
-![Discord Banner 2](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner2)
 <a href="https://discord.gg/TKdbaXsJ5a"><img src=https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner2"></a>
   
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png"></a>
