@@ -10,7 +10,7 @@
 
 <a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.png"></a>
   
-https://discord.com/api/guilds/937007024489758741/widget.json
+<iframe src="https://discord.com/widget?id=937007024489758741&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png"></a>
 
 Discord: Квэди#8735
