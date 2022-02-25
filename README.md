@@ -8,6 +8,8 @@
 
 + node.js разрабочик.
 
+<a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.js"></a>
+  
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png"></a>
 
 Discord: Квэди#8735
