@@ -10,7 +10,7 @@
 
 <a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.png"></a>
   
-<a href="https://discord.gg/TKdbaXsJ5a"><img src="https://discord.com/api/guilds/937007024489758741/widget.json"></a>
+https://discord.com/api/guilds/937007024489758741/widget.json
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png"></a>
 
 Discord: Квэди#8735
