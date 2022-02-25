@@ -13,6 +13,7 @@
 </a>
 
   
+
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
