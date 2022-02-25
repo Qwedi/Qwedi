@@ -8,7 +8,7 @@
 
 + node.js разрабочик.
 
-<a href="https://discord.gg/TKdbaXsJ5a"><img src="discord.png"></a>
+<a href="https://discord.gg/TKdbaXsJ5a"><img src="https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner4"></a>
   
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png"></a>
 
