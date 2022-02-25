@@ -12,4 +12,4 @@
   
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
-Discord: Квэди#8735 <img src="https://emoji.gg/assets/emoji/8244-discord.png" width="64px" height="64px">
+Discord: Квэди#8735 <img src="https://emoji.gg/assets/emoji/8244-discord.png" width="32px" height="32px">
