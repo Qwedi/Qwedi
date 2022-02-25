@@ -8,7 +8,7 @@
 
 + node.js разрабочик.
 
-<a href="https://discord.gg/TKdbaXsJ5a">![Discord Banner 2](https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner2)</a>
+<a href="https://discord.gg/TKdbaXsJ5a"><img scr="http://invidget.switchblade.xyz/TKdbaXsJ5a"></a>
   
 Тех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
