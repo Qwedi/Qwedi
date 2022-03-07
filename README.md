@@ -14,6 +14,8 @@
 
 + Discord Bot List - <a href="https://discordbotlist.com/bots/wifebot-5020">**ТЫК**</a>
 
++ Discord Bots GG - <a href="https://discord.bots.gg/bots/944273641946886235">**ТЫК**</a>
+
 Tех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
