@@ -10,11 +10,11 @@
 
 <a href="https://discord.gg/TKdbaXsJ5a">![Discord Banner 2](https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner2)</a>
 
+**Мониторинги где находится бот**
+
++ Discord Bot List - <a href="https://discordbotlist.com/bots/wifebot-5020">**ТЫК**</a>
+
 Tех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
 
-
-**Мониторинги где находится бот**
-
-+ Discord Bot List - <a href="https://discordbotlist.com/bots/wifebot-5020">**ТЫК**</a>
