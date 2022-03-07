@@ -17,4 +17,4 @@ Discord: Квэди#8735
 
 **Мониторинги где находится бот**
 
-+ Discord Bot List <a href="https://discordbotlist.com/bots/wifebot-5020">**ТЫК**</a>
++ Discord Bot List - <a href="https://discordbotlist.com/bots/wifebot-5020">**ТЫК**</a>
