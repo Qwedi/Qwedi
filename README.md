@@ -13,3 +13,8 @@
 Tех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
+
+
+**Мониторинги где находится бот**
+
++ Discord Bot List <a href="https://discordbotlist.com/bots/wifebot-5020">**ТЫК**</a>
