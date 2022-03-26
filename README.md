@@ -18,6 +18,8 @@
 
 + BotiCord - <a href="https://boticord.top/bot/944273641946886235">**ТЫК**</a>
 
++ Top.GG - <a href="https://top.gg/bot/944273641946886235">**ТЫК**</a>
+
 Tех.Поддержка **wifebot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
