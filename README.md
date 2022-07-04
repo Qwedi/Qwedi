@@ -2,13 +2,13 @@
 
 **Добро пожаловать в мой профиль!**
 
-+ Разработчик бота <a href="https://discord.com/api/oauth2/authorize?client_id=944273641946886235&permissions=8&scope=bot">**WifeBot**</a>
++ Разработчик бота <a href="https://discord.com/api/oauth2/authorize?client_id=944273641946886235&permissions=8&scope=bot">**SonBot**</a>
 
-+ Discord Support сервер <a href="https://discord.gg/TKdbaXsJ5a">**Войти**</a>
++ Discord Support сервер <a href="https://discord.gg/JZVpBBVpHf">**Войти**</a>
 
 + node.js разработчик.
 
-<a href="https://discord.gg/TKdbaXsJ5a">![Discord Banner 2](https://discordapp.com/api/guilds/937007024489758741/widget.png?style=banner2)</a>
+<a href="https://discord.gg/TKdbaXsJ5a">![Discord Banner 2](https://discordapp.com/api/guilds/990348386563670027/widget.png?style=banner2)</a>
 
 **Мониторинги где находится бот**
 
@@ -20,7 +20,7 @@
 
 + Top.GG - <a href="https://top.gg/bot/944273641946886235">**ТЫК**</a>
 
-Tех.Поддержка **wifebot@bk.ru** <img src="developer.png">
+Tех.Поддержка **sonbot@bk.ru** <img src="developer.png">
 
 Discord: Квэди#8735
 
