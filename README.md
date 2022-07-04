@@ -22,5 +22,5 @@
 
 Tех.Поддержка **sonbot@bk.ru** <img src="developer.png">
 
-Discord: Квэди#8735
+Discord: Квэди#0588
 
