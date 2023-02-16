@@ -1,16 +1,28 @@
-### Hi there 👋
+# Приветствую тебя :sparkles:
+Спасибо, что открыл мой профиль :D
 
-<!--
-**Qwedi/Qwedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В основном, `JavaScript` разработчик.
+<br>
+Языки которые я изучаю.
+> + JavaScript
+> + HTML & CSS
+> + Python
+> + PHP
+> + C#
 
-Here are some ideas to get you started:
+<details>
+  <summary>:speech_balloon: Discord:</summary>
+    <hr>
+    <a href="https://discord.com/users/597854685457678338">
+    <img src="https://lanyard-profile-readme.vercel.app/api/597854685457678338?hideTimestamp=true&idleMessage=🤔+Тут+что,+статус?..." />
+    </a>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:star: GitHub Статистика:</summary>
+    <hr>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=Qwedi&show_icons=true&theme=github_dark&border_radius=25">
+    </a>
+
+</details>
