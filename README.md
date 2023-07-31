@@ -8,6 +8,7 @@
 > + HTML & CSS
 > + Python
 > + PHP
+> + С++
 > + C#
 
 <details>
