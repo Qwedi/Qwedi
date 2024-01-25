@@ -5,7 +5,6 @@
 <br>
 Языки которые я изучаю.
 > + JavaScript
-> + HTML & CSS
 > + Python
 > + PHP
 > + С++
