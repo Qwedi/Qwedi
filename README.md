@@ -1,26 +1,28 @@
-# Приветствую тебя :sparkles:
-Спасибо, что открыл мой профиль :D
-
-В основном, `JavaScript` разработчик.
+# This is not a bug! It's a new feature :joy:
+Hi, I'm Vadim, a Full Stack developer. I build full-fledged web applications with user-friendly interfaces using JavaScript.
 <br><br>
 ### My stack: 
-> - JavaScript
->   - аа
-> - Python
-> - PHP
-> - С++
-> - C#
+> - **Languages:**
+>   - JavaScript
+>   - Python
+>   - PHP
+> - **Front-end:**
+>   - React
+>   - Redux
+>   - Bootstrap
+>   - Ant Design
+>   - Material UI
+> - **Back-end:**
+>   - Node.JS
+>   - Express
+> - **Databases:**
+>   - MongoDB
+>   - MySQL
+>   - SQLite
+>   - Redis
 
 <details>
-  <summary>:speech_balloon: Discord:</summary>
-    <hr>
-    <a href="https://discord.com/users/597854685457678338">
-    <img src="https://lanyard-profile-readme.vercel.app/api/597854685457678338?hideTimestamp=true&idleMessage=React + & + Express + 💕" />
-    </a>
-</details>
-
-<details>
-  <summary>:star: GitHub Статистика:</summary>
+  <summary>:star: GitHub Stats:</summary>
     <hr>
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=Qwedi&show_icons=true&theme=github_dark&border_radius=25">
