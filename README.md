@@ -1,7 +1,7 @@
 # This is not a bug! It's a new feature :joy:
 Hi, I'm **Vadim**, a **Full Stack** developer. I build full-fledged web applications with user-friendly interfaces using `JavaScript`.
 <br><br>
-### My stack: 
+### :mortar_board: My stack: 
 > - **Languages:**
 >   - JavaScript
 >   - Python
