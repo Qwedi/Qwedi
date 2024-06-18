@@ -14,7 +14,7 @@
   <summary>:speech_balloon: Discord:</summary>
     <hr>
     <a href="https://discord.com/users/597854685457678338">
-    <img src="https://lanyard-profile-readme.vercel.app/api/597854685457678338?hideTimestamp=true&idleMessage=🤔+Тут+что,+статус?..." />
+    <img src="https://lanyard-profile-readme.vercel.app/api/597854685457678338?hideTimestamp=true&idleMessage=React + & + Express + 💕" />
     </a>
 </details>
 
