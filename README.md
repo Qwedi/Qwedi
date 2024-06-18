@@ -3,7 +3,7 @@
 
 В основном, `JavaScript` разработчик.
 <br><br>
-My stack: 
+### My stack: 
 > - JavaScript
 >   - аа
 > - Python
