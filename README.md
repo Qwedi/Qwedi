@@ -2,13 +2,14 @@
 Спасибо, что открыл мой профиль :D
 
 В основном, `JavaScript` разработчик.
-<br>
-Языки которые я изучаю.
-> + JavaScript
-> + Python
-> + PHP
-> + С++
-> + C#
+<br><br>
+My stack: 
+> - JavaScript
+>   - аа
+> - Python
+> - PHP
+> - С++
+> - C#
 
 <details>
   <summary>:speech_balloon: Discord:</summary>
