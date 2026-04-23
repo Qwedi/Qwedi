@@ -6,9 +6,11 @@ Hi, I'm **Vadim**, a **Full Stack** developer. I build full-fledged web applicat
 >   - JavaScript
 >   - Python
 >   - PHP
+>   - Dart
 > - **Front-end:**
 >   - React
 >   - Redux
+>   - Flutter
 >   - Bootstrap
 >   - Ant Design
 >   - Material UI
